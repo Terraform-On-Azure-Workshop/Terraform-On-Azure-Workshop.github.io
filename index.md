@@ -1,6 +1,8 @@
 ## Stay Tuned ⌚! Terraform on Azure Coding Challenge
 
-Next week Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week you will get a new challenge  and you'll have 24 hours to complete it. When you finish all challenges, you will your exclusive space-themed gift 🎁!
+Next week Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week you will get a new challenge  and you'll have 24 hours to complete it. 
+
+When you finish all challenges, you will receive your exclusive space-themed gift 🎁!
 
 ![Space Badger](./assets/Badger-ToA.png)
 
@@ -15,7 +17,7 @@ Through a series of 5 coding challenges, you can help them get their website up 
 
 ## When is this mission launching? 
 
-We will be releasing the first coding challenge on **Monday, June 22, 2PM CEST** ⌚, right after the @hashiconf keynote.
+We will be releasing the first coding challenge on **Monday, June 22, 2PM CEST** ⌚, right after the [@hashiconf keynote](https://hashiconf.com/digital-june/).
 
 ## What can I do in the meantime?
 
