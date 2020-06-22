@@ -25,7 +25,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 ## When is this mission launching? 
 
-It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/challenges/challenge1/Readme.md)!!
+It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)!!
 
 
 ## Challenges 💻
