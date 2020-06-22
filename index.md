@@ -6,11 +6,8 @@ Starting Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashi
 
 **[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
 
-**Click** on the [introduction video](https://aka.ms/tfonazure/vid/day1) below to learn all about it!
+**Watch** on the [introduction video](https://aka.ms/tfonazure/vid/day1) to learn all about it!
 
-<a href="https://aka.ms/tfonazure/vid/day1" target=blank>
-<img src='https://img.youtube.com/vi/56tTDamp8DE/hqdefault.jpg' />
-</a>
 
 ## How does it work? 🧰
 
