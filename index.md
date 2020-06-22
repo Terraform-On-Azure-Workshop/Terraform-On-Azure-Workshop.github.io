@@ -1,10 +1,21 @@
-## Stay Tuned ⌚! Terraform on Azure Coding Challenge
+## Welcome to the Terraform on Azure Coding Challenge
 
 Starting Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week we'll  publish a new challenge and you'll have 24 hours to complete it. 
 
-Join, and claim your exclusive space-themed gift 🎁!
+**[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
+
+**Watch** our [introduction video]() to learn all about it!
 
 ![Astronaut Badger](./assets/Space-Badger-no-circle-smaller.jpg)
+
+
+## How does it work? 🧰
+
+This week (June 22-26), while HashiConf Digital takes place, we're releasing a **daily #TerraformOnAzure coding challenge**. You have **24 hours** to submit your coding challenge solution, before we will publish ours in this repo.
+
+Of course, you're free to continue to work longer on your coding challenge and still it! We want to learn from you as well! The goal is for everyone to learn and expore.
+
+Join, and claim your exclusive space-themed gift 🎁!
 
 ## What's this spacy badger doing here?
 
@@ -14,8 +25,20 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 ## When is this mission launching? 
 
-We will release the first coding challenge on **Monday, June 22, at 2PM CEST sharp** ⌚, right after the [HashiConf keynote](https://hashiconf.com/digital-june/).
+It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/challenges/challenge1/Readme.md)!!
 
-## What can I do in the meantime?
 
-We know you're eager to start, but don't fire your engines just yet! **Follow** the [#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure) Twitter hashtag, bookmark this page, and/or have a look at our [documentation](https://docs.microsoft.com/en-us/azure/developer/terraform/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ).
+## Challenges 💻
+
+| Date | Challenge | Description |
+| ---- | --------- | ----------- |
+| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Hosting a website on Azure App Service |
+| June 23, 2020 | TBA | TBA |
+| June 24, 2020 | TBA | TBA |
+| June 25, 2020 | TBA | TBA |
+| June 26, 2020 | TBA | TBA |
+
+
+## What else can I do?
+
+Thanks for asking! **Follow** the [#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure) Twitter hashtag, bookmark this page, and/or have a look at our [documentation](https://docs.microsoft.com/en-us/azure/developer/terraform/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ).
