@@ -2,7 +2,7 @@
 
 Starting Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week we'll  publish a new challenge and you'll have 24 hours to complete it. 
 
-**[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
+**[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
 
 **Watch** our [introduction video]() to learn all about it!
 
@@ -32,7 +32,7 @@ It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Wo
 
 | Date | Challenge | Description |
 | ---- | --------- | ----------- |
-| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Hosting a website on Azure App Service |
+| June 22, 2020 | [Challenge 1](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md) | Hosting a website on Azure App Service |
 | June 23, 2020 | TBA | TBA |
 | June 24, 2020 | TBA | TBA |
 | June 25, 2020 | TBA | TBA |
