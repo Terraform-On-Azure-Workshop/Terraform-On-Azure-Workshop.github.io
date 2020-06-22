@@ -1,12 +1,12 @@
 ## Welcome to the Terraform on Azure Coding Challenge
 
+![Astronaut Badger](./assets/Space-Badger-no-circle-smaller.jpg)
+
 Starting Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week we'll  publish a new challenge and you'll have 24 hours to complete it. 
 
 **[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
 
 **Watch** our [introduction video]() to learn all about it!
-
-![Astronaut Badger](./assets/Space-Badger-no-circle-smaller.jpg)
 
 
 ## How does it work? 🧰
