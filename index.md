@@ -33,8 +33,8 @@ It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Wo
 
 | Date | Challenge | Description | Video |
 | ---- | --------- | ----------- |
-| June 22, 2020 | [Challenge 1](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md) | Hosting a website on Azure App Service | https://aka.ms/tfonazure/vid/day1 |
-| June 23, 2020 | TBA | TBA | https://aka.ms/tfonazure/vid/day2 |
+| June 22, 2020 | [Challenge 1](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md) | Hosting a website on Azure App Service | [day1](https://aka.ms/tfonazure/vid/day1) |
+| June 23, 2020 | TBA | TBA | [day2](https://aka.ms/tfonazure/vid/day2) |
 | June 24, 2020 | TBA | TBA | TBA |
 | June 25, 2020 | TBA | TBA | TBA |
 | June 26, 2020 | TBA | TBA | TBA |
