@@ -1,13 +1,14 @@
 ## Welcome to the Terraform on Azure Coding Challenge
 
-![Astronaut Badger](./assets/Space-Badger-no-circle-smaller.jpg)
+![Spacebadger with Engine](./assets/twittercard-engine.png)
 
 Starting Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week we'll  publish a new challenge and you'll have 24 hours to complete it. 
 
 **[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
 
-**Watch**  the [introduction video](https://aka.ms/tfonazure/vid/day1) to learn all about it!
-{% include player.html id="56tTDamp8DE" %}
+## This day's video
+**Watch**  the [day 2 video](https://aka.ms/tfonazure/vid/day2) to learn all about it!
+{% include player.html id="xGBLGBdHZJ4" %}
 
 ## How does it work? 🧰
 
@@ -30,13 +31,13 @@ It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Wo
 
 ## Challenges 💻
 
-| Date | Challenge | Description |
+| Date | Challenge | Description | Video |
 | ---- | --------- | ----------- |
-| June 22, 2020 | [Challenge 1](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md) | Hosting a website on Azure App Service |
-| June 23, 2020 | TBA | TBA |
-| June 24, 2020 | TBA | TBA |
-| June 25, 2020 | TBA | TBA |
-| June 26, 2020 | TBA | TBA |
+| June 22, 2020 | [Challenge 1](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md) | Hosting a website on Azure App Service | https://aka.ms/tfonazure/vid/day1 |
+| June 23, 2020 | TBA | TBA | https://aka.ms/tfonazure/vid/day2 |
+| June 24, 2020 | TBA | TBA | TBA |
+| June 25, 2020 | TBA | TBA | TBA |
+| June 26, 2020 | TBA | TBA | TBA |
 
 
 ## What else can I do?
