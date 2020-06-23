@@ -20,9 +20,11 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
-## This day's video
+## This day's challenge
 **Watch**  the [day 2 video](https://aka.ms/tfonazure/vid/day2) to see how our Badger is progressing with the space business!
 {% include player.html id="xGBLGBdHZJ4" %}
+
+**Start your engines** and head over to [Challenge 2](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge2/Readme.md)
 
 ## Challenges 💻
 
