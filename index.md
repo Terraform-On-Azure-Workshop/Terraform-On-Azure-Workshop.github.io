@@ -4,11 +4,7 @@
 
 Starting Monday, June 22, we're tuning in for [#HashiConf Digital](https://hashiconf.com/digital-june/) and we've engineered some **[#TerraformOnAzure](https://twitter.com/search?q=%23terraformonazure)** **Coding Challenges** for you 🚀. Every day of the week we'll  publish a new challenge and you'll have 24 hours to complete it. 
 
-**[Join our first coding challenge now!](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)**, and help our little badger get their website up and running in the cloud!
-
-## This day's video
-**Watch**  the [day 2 video](https://aka.ms/tfonazure/vid/day2) to learn all about it!
-{% include player.html id="xGBLGBdHZJ4" %}
+Everyday at 2PM CEST, a new challenge which will be posted on this page. You can help our little badger get their website up and running in the cloud!!
 
 ## How does it work? 🧰
 
@@ -24,10 +20,9 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
-## When is this mission launching? 
-
-It's live now!! Join, and [get started](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md)!!
-
+## This day's video
+**Watch**  the [day 2 video](https://aka.ms/tfonazure/vid/day2) to see how our Badger is progressing with the space business!
+{% include player.html id="xGBLGBdHZJ4" %}
 
 ## Challenges 💻
 
