@@ -21,7 +21,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
 ## This day's challenge
-**Watch**  the [day 3 video](https://aka.ms/tfonazure/vid/day4) to see how our Badger is progressing with the space business!
+**Watch**  the [day 4 video](https://aka.ms/tfonazure/vid/day4) to see how our Badger is progressing with the space business!
 {% include player.html id="-lJ2BhJfa20" %}
 
 **Start your engines** and head over to [Challenge 4](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge4/Readme.md)
@@ -33,7 +33,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 | June 22, 2020 | [Challenge 1](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge1/Readme.md) | Hosting a website on Azure App Service | [day1](https://aka.ms/tfonazure/vid/day1) |
 | June 23, 2020 | [Challenge 2](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge2/Readme.md) | Hosting the application databases on Azure | [day2](https://aka.ms/tfonazure/vid/day2) |
 | June 24, 2020 | [Challenge 3](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge3/Readme.md) | Remote state and CI/CD pipeline GitHub Actions | [day3](https://aka.ms/tfonazure/vid/day3) |
-| June 25, 2020 | [Challenge 4](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge4/Readme.md) | TBA | [day4](https://aka.ms/tfonazure/vid/day4) |
+| June 25, 2020 | [Challenge 4](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge4/Readme.md) | Deploying on Azure Kubernetes Service | [day4](https://aka.ms/tfonazure/vid/day4) |
 | June 26, 2020 | TBA | TBA | TBA |
 
 
