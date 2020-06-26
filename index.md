@@ -22,7 +22,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 ## This day's challenge
 **Watch**  the [day 5 video](https://aka.ms/tfonazure/vid/day5) to see how our Badger is progressing with the space business!
-{% include player.html id="-Ljbq2NdDG08" %}
+{% include player.html id="Ljbq2NdDG08" %}
 
 **Start your engines** and head over to [Challenge 5](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge5/README.md)
 
