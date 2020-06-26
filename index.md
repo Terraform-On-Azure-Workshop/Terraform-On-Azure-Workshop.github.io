@@ -24,7 +24,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 **Watch**  the [day 5 video](https://aka.ms/tfonazure/vid/day5) to see how our Badger is progressing with the space business!
 {% include player.html id="-Ljbq2NdDG08" %}
 
-**Start your engines** and head over to [Challenge 4](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge5/Readme.md)
+**Start your engines** and head over to [Challenge 5](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge5/README.md)
 
 ## Challenges 💻
 
@@ -34,7 +34,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 | June 23, 2020 | [Challenge 2](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge2/Readme.md) | Hosting the application databases on Azure | [day2](https://aka.ms/tfonazure/vid/day2) |
 | June 24, 2020 | [Challenge 3](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge3/Readme.md) | Remote state and CI/CD pipeline GitHub Actions | [day3](https://aka.ms/tfonazure/vid/day3) |
 | June 25, 2020 | [Challenge 4](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge4/Readme.md) | Deploying on Azure Kubernetes Service | [day4](https://aka.ms/tfonazure/vid/day4) |
-| June 26, 2020 | [Challenge 5](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge5/Readme.md)  | TBA | [day5](https://aka.ms/tfonazure/vid/day5) |
+| June 26, 2020 | [Challenge 5](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/blob/main/challenges/challenge5/README.md)  | TBA | [day5](https://aka.ms/tfonazure/vid/day5) |
 
 
 ## What else can I do?
