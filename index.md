@@ -12,7 +12,9 @@ This week (June 22-26), while HashiConf Digital takes place, we're releasing a *
 
 Of course, you're free to continue to work longer on your coding challenge and still it! We want to learn from you as well! The goal is for everyone to learn and expore.
 
-Join, and claim your exclusive space-themed gift 🎁!
+Get your exclusive [space-themed gift](./assets/TerraformOnAzure-Background-Final.jpg) now 🎁! We have created an exclusive, custom background, for you to use in all your video calls!
+
+![Custom Background](./assets/TerraformOnAzure-Background-Final.jpg)
 
 ## What's this spacy badger doing here?
 
